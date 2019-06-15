@@ -1,0 +1,219 @@
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: created
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'speculative': com.apple.backboardd
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.backboardd
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: spawn delegate check: 146
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'speculative': com.apple.CoreSimulator.bridge
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.CoreSimulator.bridge
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: spawn delegate check: 146
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'speculative': com.apple.backboardd
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: spawn delegate check: 0
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: launching: speculative
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: trampoline spawned as: 84635
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'speculative': com.apple.CoreSimulator.bridge
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: spawn delegate check: 0
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: launching: speculative
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: trampoline spawned as: 84636
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'one-shot': com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: spawn delegate check: 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: launching: one-shot
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: trampoline spawned as: 84637
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: service initialized
+  Wed Jun 12 08:48:40 2019	com.apple.backboardd: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: service initialized
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: service initialized
+  Wed Jun 12 08:48:40 2019	com.apple.CoreSimulator.bridge: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'ipc (mach)': com.apple.cfprefsd.xpc.daemon
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: spawn delegate check: 0
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: launching: ipc (mach)
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: trampoline spawned as: 84638
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: service initialized
+  Wed Jun 12 08:48:40 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'ipc (mach)': com.apple.mobilegestalt.xpc
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: spawn delegate check: 0
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: launching: ipc (mach)
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: trampoline spawned as: 84641
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: service initialized
+  Wed Jun 12 08:48:40 2019	com.apple.mobilegestalt.xpc: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636: uncorking exec source upfront
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636: created
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636: uncorking domain
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.backboardd.84635: uncorking exec source upfront
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.backboardd.84635: created
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.backboardd.84635: uncorking domain
+  Wed Jun 12 08:48:40 2019	com.apple.MTLCompilerService: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.MTLCompilerService: draining messages from com.apple.MTLCompilerService
+  Wed Jun 12 08:48:40 2019	com.apple.MobileInstallationHelperService: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.MobileInstallationHelperService: draining messages from com.apple.MobileInstallationHelperService
+  Wed Jun 12 08:48:40 2019	com.apple.TrustedPeersHelper: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.TrustedPeersHelper: draining messages from com.apple.TrustedPeersHelper
+  Wed Jun 12 08:48:40 2019	com.apple.UIKit.KeyboardManagement: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.UIKit.KeyboardManagement: draining messages from com.apple.UIKit.KeyboardManagement
+  Wed Jun 12 08:48:40 2019	com.apple.accessibility.mediaaccessibilityd: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.accessibility.mediaaccessibilityd: draining messages from com.apple.accessibility.mediaaccessibilityd
+  Wed Jun 12 08:48:40 2019	com.apple.accounts.dom: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.accounts.dom: draining messages from com.apple.accounts.dom
+  Wed Jun 12 08:48:40 2019	com.apple.audio.toolbox.reporting.service: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.audio.toolbox.reporting.service: draining messages from com.apple.audio.toolbox.reporting.service
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: draining messages from com.apple.datamigrator
+  Wed Jun 12 08:48:40 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Wed Jun 12 08:48:40 2019	com.apple.migrationpluginwrapper: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.migrationpluginwrapper: draining messages from com.apple.migrationpluginwrapper
+  Wed Jun 12 08:48:40 2019	com.apple.tonelibraryd: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.tonelibraryd: draining messages from com.apple.tonelibraryd
+  Wed Jun 12 08:48:40 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Wed Jun 12 08:48:40 2019	com.apple.MTLCompilerService: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.MTLCompilerService: draining messages from com.apple.MTLCompilerService
+  Wed Jun 12 08:48:40 2019	com.apple.siri.acousticsignature: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.siri.acousticsignature: draining messages from com.apple.siri.acousticsignature
+  Wed Jun 12 08:48:40 2019	com.apple.AXMediaUtilitiesService: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.AXMediaUtilitiesService: draining messages from com.apple.AXMediaUtilitiesService
+  Wed Jun 12 08:48:40 2019	com.apple.siri.ClientFlow.ClientScripter: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.siri.ClientFlow.ClientScripter: draining messages from com.apple.siri.ClientFlow.ClientScripter
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'ipc (mach)': com.apple.datamigrator
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: spawn delegate check: 0
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: launching: ipc (mach)
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: trampoline spawned as: 84642
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.accessibility.AccessibilityUIServer: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.accessibility.AccessibilityUIServer: draining messages from com.apple.accessibility.AccessibilityUIServer
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: service initialized
+  Wed Jun 12 08:48:40 2019	com.apple.datamigrator: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.datamigrator.84642: uncorking exec source upfront
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.datamigrator.84642: created
+  Wed Jun 12 08:48:40 2019	com.apple.xpc.launchd.domain.pid.datamigrator.84642: uncorking domain
+  Wed Jun 12 08:48:40 2019	com.apple.MTLCompilerService: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:40 2019	com.apple.MTLCompilerService: draining messages from com.apple.MTLCompilerService
+  Wed Jun 12 08:48:41 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 'ipc (mach)': com.apple.accessibility.AccessibilityUIServer
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: spawn delegate check: 0
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 0, code = 0
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: launching: ipc (mach)
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: trampoline spawned as: 84643
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 1, code = 0
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 2, code = 0
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: service initialized
+  Wed Jun 12 08:48:41 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 4, code = 0
+  Wed Jun 12 08:48:41 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643: uncorking exec source upfront
+  Wed Jun 12 08:48:41 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643: created
+  Wed Jun 12 08:48:41 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643: uncorking domain
+  Wed Jun 12 08:48:41 2019	com.apple.MTLCompilerService: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:41 2019	com.apple.MTLCompilerService: draining messages from com.apple.MTLCompilerService
+  Wed Jun 12 08:48:41 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: creating the implicit endpoint upfront
+  Wed Jun 12 08:48:41 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Wed Jun 12 08:48:51 2019	com.apple.datamigrator: service exited: dirty = 0, supported pressured-exit = 0
+  Wed Jun 12 08:48:51 2019	com.apple.datamigrator: exited with code: 0
+  Wed Jun 12 08:48:51 2019	com.apple.datamigrator: event callout: event = 5, code = 0
+  Wed Jun 12 08:48:51 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.datamigrator
+  Wed Jun 12 08:48:51 2019	com.apple.xpc.launchd.domain.pid.datamigrator.84642: shutting down
+  Wed Jun 12 08:48:51 2019	com.apple.xpc.launchd.domain.pid.datamigrator.84642: cleaning up
+  Wed Jun 12 08:48:51 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.datamigrator.84642
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: service exited: dirty = 0, supported pressured-exit = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: exited with code: 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS: event callout: event = 5, code = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.xpc.launchd.oneshot.0x10000000.IBAgent-iOS
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: domain SIGTERM event
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: shutting down
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged service: com.apple.xpc.launchd.simhost
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.CoreSimulator.host.bootstrap_port
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleFBTVOutServer
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleFBServer
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.CoreSimulator.SimFramebufferServer
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: IndigoHIDRegistrationPort
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.IOSurface.Remote
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.FSEvents
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.SystemConfiguration.configd
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.coreservices.lsuseractivity.simulatorsupport
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.audio.audiohald
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.SystemConfiguration.PPPController
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.audio.coreaudiod
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.SystemConfiguration.configd_host
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.PowerManagement.control
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.xpc.launchd.simhost
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing inactive unmanaged service: com.apple.xpc.launchd.simhost
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.cfprefsd.xpc.daemon
+  Wed Jun 12 08:55:21 2019	com.apple.cfprefsd.xpc.daemon: signaled service: Killed: 9
+  Wed Jun 12 08:55:21 2019	com.apple.cfprefsd.xpc.daemon: scheduling cleanup in 3 sec after sending Killed: 9
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.mobilegestalt.xpc
+  Wed Jun 12 08:55:21 2019	com.apple.mobilegestalt.xpc: signaled service: Killed: 9
+  Wed Jun 12 08:55:21 2019	com.apple.mobilegestalt.xpc: scheduling cleanup in 3 sec after sending Killed: 9
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.CoreSimulator.bridge
+  Wed Jun 12 08:55:21 2019	com.apple.CoreSimulator.bridge: signaled service: Terminated: 15
+  Wed Jun 12 08:55:21 2019	com.apple.CoreSimulator.bridge: scheduling cleanup in 5 sec after sending Terminated: 15
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.backboardd
+  Wed Jun 12 08:55:21 2019	com.apple.backboardd: signaled service: Terminated: 15
+  Wed Jun 12 08:55:21 2019	com.apple.backboardd: scheduling cleanup in 5 sec after sending Terminated: 15
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.accessibility.AccessibilityUIServer
+  Wed Jun 12 08:55:21 2019	com.apple.accessibility.AccessibilityUIServer: signaled service: Terminated: 15
+  Wed Jun 12 08:55:21 2019	com.apple.accessibility.AccessibilityUIServer: scheduling cleanup in 5 sec after sending Terminated: 15
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accessibility.mediaaccessibilityd
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.siri.ClientFlow.ClientScripter
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.tonelibraryd
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accounts.dom
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.audio.toolbox.reporting.service
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.UIKit.KeyboardManagement
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.MobileInstallationHelperService
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.AXMediaUtilitiesService
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.siri.acousticsignature
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.datamigrator
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.migrationpluginwrapper
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.TrustedPeersHelper
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643: slaying domain
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.backboardd.84635: slaying domain
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636: slaying domain
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643: shutting down
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643: cleaning up
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.backboardd.84635: shutting down
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.backboardd.84635: cleaning up
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636: shutting down
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636: cleaning up
+  Wed Jun 12 08:55:21 2019	com.apple.cfprefsd.xpc.daemon: service exited: dirty = 0, supported pressured-exit = 0
+  Wed Jun 12 08:55:21 2019	com.apple.cfprefsd.xpc.daemon: exited due to SIGKILL | sent by launchd_sim[84633]
+  Wed Jun 12 08:55:21 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 5, code = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.84643
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.backboardd.84635
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.84636
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.cfprefsd.xpc.daemon
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cfprefsd.xpc.daemon
+  Wed Jun 12 08:55:21 2019	com.apple.mobilegestalt.xpc: service exited: dirty = 0, supported pressured-exit = 1
+  Wed Jun 12 08:55:21 2019	com.apple.mobilegestalt.xpc: exited due to SIGKILL | sent by launchd_sim[84633]
+  Wed Jun 12 08:55:21 2019	com.apple.mobilegestalt.xpc: event callout: event = 5, code = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.mobilegestalt.xpc
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mobilegestalt.xpc
+  Wed Jun 12 08:55:21 2019	com.apple.CoreSimulator.bridge: service exited: dirty = 0, supported pressured-exit = 0
+  Wed Jun 12 08:55:21 2019	com.apple.CoreSimulator.bridge: exited due to SIGTERM | sent by launchd_sim[84633]
+  Wed Jun 12 08:55:21 2019	com.apple.CoreSimulator.bridge: event callout: event = 5, code = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.CoreSimulator.bridge
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.CoreSimulator.bridge
+  Wed Jun 12 08:55:21 2019	com.apple.accessibility.AccessibilityUIServer: service exited: dirty = 0, supported pressured-exit = 0
+  Wed Jun 12 08:55:21 2019	com.apple.accessibility.AccessibilityUIServer: exited with code: 0
+  Wed Jun 12 08:55:21 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 5, code = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.accessibility.AccessibilityUIServer
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accessibility.AccessibilityUIServer
+  Wed Jun 12 08:55:21 2019	com.apple.backboardd: service exited: dirty = 0, supported pressured-exit = 0
+  Wed Jun 12 08:55:21 2019	com.apple.backboardd: exited due to SIGTERM | sent by launchd_sim[84633]
+  Wed Jun 12 08:55:21 2019	com.apple.backboardd: event callout: event = 5, code = 0
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.backboardd
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.backboardd
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: cleaning up
+  Wed Jun 12 08:55:21 2019	com.apple.xpc.launchd.domain.system: shutting down system: flags = 0x0, time = 22 ms

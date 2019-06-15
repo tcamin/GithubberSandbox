@@ -1,0 +1,20 @@
+# Ruleset for Yosemite (Vocalizer Expressive)
+# 
+#RLSTAG: RLS_FE.ENU_8.0.7
+
+[header]
+language = enu
+type = music
+charset = utf-8
+
+[data]
+
+# tn=sms type ruleset removes tn=music markup at the end
+# this rule enables that tn=music markup can be (re)inserted
+# in the main ruleset
+/^/   -->   "\e<reinsert_tn_music_tag>"
+
+/\b311\b/   -->   "3 11"
+/\b8701\b/   -->   "87 oh 1"
+/\b867[ -–]?5309\b/   -->   "8 6 7 5 3 O 9" # rdar://problem/48872292
+

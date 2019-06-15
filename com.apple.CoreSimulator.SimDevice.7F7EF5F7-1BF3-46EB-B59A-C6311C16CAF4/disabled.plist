@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.nanonewscd</key>
+	<false/>
+	<key>com.apple.companionproximityd</key>
+	<false/>
+	<key>com.apple.bulletindistributord</key>
+	<false/>
+	<key>com.apple.companionmessagesd</key>
+	<false/>
+	<key>com.apple.resourcegrabberd</key>
+	<false/>
+	<key>com.apple.NPKCompanionAgent</key>
+	<false/>
+	<key>com.apple.nanomapscd</key>
+	<false/>
+	<key>com.apple.nanomailbootstrapd</key>
+	<false/>
+	<key>com.apple.pairedsyncd</key>
+	<false/>
+	<key>com.apple.eventkitsyncd</key>
+	<false/>
+	<key>com.apple.nanosystemsettingsd</key>
+	<false/>
+	<key>com.apple.companionfindlocallyd</key>
+	<false/>
+	<key>com.apple.appconduitd</key>
+	<false/>
+	<key>com.apple.relevanced</key>
+	<false/>
+	<key>com.apple.nanoappregistryd</key>
+	<false/>
+	<key>com.apple.pairedunlockd</key>
+	<false/>
+	<key>com.apple.companionappd</key>
+	<false/>
+	<key>com.apple.addressbooksyncd</key>
+	<false/>
+</dict>
+</plist>

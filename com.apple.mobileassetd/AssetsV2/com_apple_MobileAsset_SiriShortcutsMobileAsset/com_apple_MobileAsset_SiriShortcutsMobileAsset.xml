@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AssetType</key>
+	<string>com.apple.MobileAsset.SiriShortcutsMobileAsset</string>
+	<key>Assets</key>
+	<array>
+		<dict>
+			<key>__Empty</key>
+			<string>Empty</string>
+		</dict>
+	</array>
+	<key>Certificate</key>
+	<data>
+	MIID7TCCAtWgAwIBAgIBLTANBgkqhkiG9w0BAQUFADB5MQswCQYDVQQGEwJVUzETMBEG
+	A1UEChMKQXBwbGUgSW5jLjEmMCQGA1UECxMdQXBwbGUgQ2VydGlmaWNhdGlvbiBBdXRo
+	b3JpdHkxLTArBgNVBAMTJEFwcGxlIGlQaG9uZSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0
+	eTAeFw0xMTA3MTQyMjMyNDhaFw0xODA3MTQyMjMyNDhaMGYxCzAJBgNVBAYTAlVTMRMw
+	EQYDVQQKEwpBcHBsZSBJbmMuMSEwHwYDVQQLExhBcHBsZSBpT1MgQXNzZXQgTWFuaWZl
+	c3QxHzAdBgNVBAMTFkFzc2V0IE1hbmlmZXN0IFNpZ25pbmcwggEiMA0GCSqGSIb3DQEB
+	AQUAA4IBDwAwggEKAoIBAQC1y4D4VYBPHLwnHk1qfi1F49E3Ml675ElYYAFghqpAiKOq
+	eagLVZU8zKuPw650NHACvNJbjKBjMsWdWaFMj/7c2TB5IkJwi61Y6B+uVK78W9u9I/hF
+	AK0pWcM9Y5KbKMvz4wEwt64EXfS8eVBRmqh/29ygxN9NtBbHEiGiGQ8vxIV3U6FomNdm
+	xKPM7VZmsyFIxQ5HsxgHb0skxlDIdePtYsHLmpK9PX43K3sBT3lHN0Uxtit8HTrdwiNq
+	13cI0TINT+lsbXKLp3/gPJVpfxkQ3MTt40KG/DTMsqKOygDombsFSqA+RPSv68YtJ/kA
+	aGaoH6gZfRrwX7GJozzQ8KTZAgMBAAGjgZIwgY8wDgYDVR0PAQH/BAQDAgeAMAkGA1Ud
+	EwQCMAAwHQYDVR0OBBYEFGNQxP6y1Ao4Hrhid6BcMLwcrB3BMDgGA1UdHwQxMC8wLaAr
+	oCmGJ2h0dHA6Ly93d3cuYXBwbGUuY29tL2FwcGxlY2EvaXBob25lLmNybDAZBgNVHSAB
+	Af8EDzANMAsGCSqGSIb3Y2QFCDANBgkqhkiG9w0BAQUFAAOCAQEAn6Cj4XjlScRIh1wP
+	F8BLCz/dl6CskbTsJXz24tCDm3gcvb1Ovc+sBeg1JyvHiy2C4NxEGDYsVYHvUbucXrGd
+	ul6kKauOYcEzpogk56BIRenKHivAqQQtNJpVmqrElgqDntI/az2Gsw32TLWyDXVw8rWi
+	vchZE+VOv1mT4a7LHsdxMWbEOIrkvkZUOoxZlQhjPCc22mp0Yy5rwcf+3/IwJGOhJSXO
+	VrcxuOwmweNrK1Eajn+HS2IlnMBwQDkH/d74KUXGvuNX0LsXv9cCQMB8tcjFlr1u+Szo
+	XCHD1SJkU4ex3auhnukYSoiag78twmDRk726aYmxNIfYYpDs0hS7Mw==
+	</data>
+	<key>DownloadedFrom</key>
+	<string>https://mesu.apple.com/assets/</string>
+	<key>FormatVersion</key>
+	<integer>1</integer>
+	<key>Signature</key>
+	<data>
+	eWBBDOxVbyr4n9hhWQLY9uo8Xpc6Lp5yHaa1WXywnpvcmxgStjWbdorDwGJ3FFRmxY8o
+	hvMRt3ZLF13TKJBu7JZCFY7pRZWugyFzF56YYXzAT9DuaeMzttjM01xJ6oRpsa54ekIv
+	XaNwbHiGNqjZmaQhBzRXoYCUjQF8Ss8bmxIkxxDjTtI6K+x/M+Tm7I/745BJGbWtZDoi
+	XOrQCfU+yICnkq+YdvCA3cHt1y6Kc3o/NxMUk8YOnQSgZtMlBkvVMj7jREPwZnVoCzat
+	4puQANfhV1hVZcv4/upNK2ZkTe/+FZRqLqkHFaPMIxIVihfWTBDKlF4AaK7XNsrBevkU
+	dw==
+	</data>
+	<key>SigningKey</key>
+	<string>AssetManifestSigning</string>
+	<key>lastTimeChecked</key>
+	<date>2019-06-10T08:06:32Z</date>
+	<key>postedDate</key>
+	<date>2018-09-04T18:12:00Z</date>
+</dict>
+</plist>

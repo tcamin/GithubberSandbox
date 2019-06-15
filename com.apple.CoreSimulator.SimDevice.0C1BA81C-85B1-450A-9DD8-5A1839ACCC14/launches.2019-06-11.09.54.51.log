@@ -1,0 +1,1959 @@
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: created
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.mobile.installd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.mobile.installd
+  Tue Jun 11 09:54:51 2019	com.apple.mobile.installd: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.fileprovider.fileproviderd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.fileprovider.fileproviderd
+  Tue Jun 11 09:54:51 2019	com.apple.fileprovider.fileproviderd: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.syslogd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, service not yet quiesced: com.apple.syslogd
+  Tue Jun 11 09:54:51 2019	com.apple.syslogd: spawn delegate check: 16
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.ids_simd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.ids_simd
+  Tue Jun 11 09:54:51 2019	com.apple.ids_simd: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.wcd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.wcd
+  Tue Jun 11 09:54:51 2019	com.apple.wcd: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.logd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.logd
+  Tue Jun 11 09:54:51 2019	com.apple.logd: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.backboardd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.backboardd
+  Tue Jun 11 09:54:51 2019	com.apple.backboardd: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.routined
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.routined
+  Tue Jun 11 09:54:51 2019	com.apple.routined: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 6: com.apple.mediaremoted
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.mediaremoted
+  Tue Jun 11 09:54:51 2019	com.apple.mediaremoted: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 2: com.apple.syslogd
+  Tue Jun 11 09:54:51 2019	com.apple.syslogd: spawn delegate check: 0
+  Tue Jun 11 09:54:51 2019	com.apple.syslogd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:51 2019	com.apple.syslogd: launching: ipc (socket)
+  Tue Jun 11 09:54:51 2019	com.apple.syslogd: trampoline spawned as: 38004
+  Tue Jun 11 09:54:51 2019	com.apple.syslogd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.revisiond
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.revisiond
+  Tue Jun 11 09:54:51 2019	com.apple.revisiond: spawn delegate check: 146
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.purplebuddy.budd
+  Tue Jun 11 09:54:51 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.purplebuddy.budd
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.syslogd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.coreservices.appleid.authentication
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.coreservices.appleid.authentication
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.sharingd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.sharingd
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.locationd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.locationd
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.healthd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.healthd
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.mediastream.mstreamd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.mediastream.mstreamd
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.containermanagerd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.containermanagerd
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.configd_sim
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.configd_sim
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 6: com.apple.assetsd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.assetsd
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.assertiond
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.assertiond
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 7: com.apple.UserEventAgent-System
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, service not yet imported: com.apple.UserEventAgent-System
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: spawn delegate check: 2
+  Tue Jun 11 09:54:52 2019	com.apple.bird: draining messages from com.apple.bird.token
+  Tue Jun 11 09:54:52 2019	com.apple.bird: draining messages from com.apple.bird.push
+  Tue Jun 11 09:54:52 2019	com.apple.bird: draining messages from com.apple.bird.cache-delete
+  Tue Jun 11 09:54:52 2019	com.apple.bird: draining messages from com.apple.bird
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.SpringBoard
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.SpringBoard
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.identityservicesd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.identityservicesd
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.assistantd
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.assistantd
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.CoreSimulator.bridge
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: pending spawn, domain in on-demand-only mode: com.apple.CoreSimulator.bridge
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: spawn delegate check: 146
+  Tue Jun 11 09:54:52 2019	com.apple.syslogd: service already running
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 7: com.apple.UserEventAgent-System
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: launching: system support
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: trampoline spawned as: 38005
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.assistantd
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: trampoline spawned as: 38006
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.fileprovider.fileproviderd
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: trampoline spawned as: 38007
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.mediastream.mstreamd
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: trampoline spawned as: 38008
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 6: com.apple.mediaremoted
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: launching: semaphore
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: trampoline spawned as: 38009
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.routined
+  Tue Jun 11 09:54:52 2019	com.apple.routined: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.routined: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.routined: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.routined: trampoline spawned as: 38010
+  Tue Jun 11 09:54:52 2019	com.apple.routined: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.healthd
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: trampoline spawned as: 38011
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.ids_simd
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: trampoline spawned as: 38012
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.logd
+  Tue Jun 11 09:54:52 2019	com.apple.logd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.logd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.logd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.logd: trampoline spawned as: 38013
+  Tue Jun 11 09:54:52 2019	com.apple.logd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.mobile.installd
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: trampoline spawned as: 38014
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.identityservicesd
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: trampoline spawned as: 38015
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 6: com.apple.assetsd
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: launching: semaphore
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: trampoline spawned as: 38016
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.coreservices.appleid.authentication
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: trampoline spawned as: 38017
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.SpringBoard
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: trampoline spawned as: 38018
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.wcd
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: trampoline spawned as: 38019
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.backboardd
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: trampoline spawned as: 38020
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.sharingd
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: trampoline spawned as: 38021
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.locationd
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: trampoline spawned as: 38022
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.assertiond
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: trampoline spawned as: 38023
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.containermanagerd
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: trampoline spawned as: 38024
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.CoreSimulator.bridge
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: trampoline spawned as: 38025
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.purplebuddy.budd
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: trampoline spawned as: 38026
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.revisiond
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: trampoline spawned as: 38027
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: com.apple.configd_sim
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: launching: speculative
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: trampoline spawned as: 38028
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.routined: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.logd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.syslogd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.syslogd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 2: com.apple.testmanagerd
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: launching: ipc (socket)
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: trampoline spawned as: 38029
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.UserEventAgent-System: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.logd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.logd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.identityservicesd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.SpringBoard: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.backboardd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.locationd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.configd_sim: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.notifyd
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: trampoline spawned as: 38030
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.CoreSimulator.bridge: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 10: com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: launching: one-shot
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: trampoline spawned as: 38031
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.assistantd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediastream.mstreamd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.notifyd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.diagnosticd
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: trampoline spawned as: 38032
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.cfprefsd.xpc.daemon
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: trampoline spawned as: 38033
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.aslmanager
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: trampoline spawned as: 38034
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.diagnosticd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.aslmanager: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.mobilegestalt.xpc
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: trampoline spawned as: 38035
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.mobilegestalt.xpc: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.lsd
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: trampoline spawned as: 38036
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.routined: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.routined: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.lsd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assertiond: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.containermanagerd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.tccd
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: trampoline spawned as: 38037
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.nanoregistryd
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: trampoline spawned as: 38038
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.distnoted.xpc.daemon
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: trampoline spawned as: 38039
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.tccd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistryd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.ids_simd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.distnoted.xpc.daemon: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.GameController.gamecontrollerd
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: trampoline spawned as: 38040
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.pasteboard.pasted
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: trampoline spawned as: 38041
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.GameController.gamecontrollerd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.accountsd
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: trampoline spawned as: 38042
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pasteboard.pasted: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.accountsd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.nanoregistrylaunchd
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: trampoline spawned as: 38043
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.geod
+  Tue Jun 11 09:54:52 2019	com.apple.geod: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.geod: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.geod: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.geod: trampoline spawned as: 38044
+  Tue Jun 11 09:54:52 2019	com.apple.geod: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.geod: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nanoregistrylaunchd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.securityd
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: trampoline spawned as: 38045
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.geod: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.geod: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.securityd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.appsupport.cplogd
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: trampoline spawned as: 38046
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.security.cloudkeychainproxy3
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: trampoline spawned as: 38047
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.appsupport.cplogd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.apsd
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: trampoline spawned as: 38048
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.security.cloudkeychainproxy3: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.apsd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.mobileassetd
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: trampoline spawned as: 38049
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.mobileassetd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.security.keychainsyncingoveridsproxy
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: trampoline spawned as: 38050
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.security.keychainsyncingoveridsproxy: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.nsurlsessiond
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: trampoline spawned as: 38051
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.nsurlsessiond: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.healthd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.fileprovider.fileproviderd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.mediaremoted: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.mobile.installd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.wcd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.sharingd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.testmanagerd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.assetsd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.revisiond: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.pluginkit.pkd
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: trampoline spawned as: 38053
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.pluginkit.pkd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.coreservices.appleid.authentication: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.installd.38014: uncorking exec source upfront
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.installd.38014: resolving origin
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.installd.38014: created
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.installd.38014: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.installd.38014: domain origin resolved: error = 128
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.installd.38014: uncorking domain
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: initializing endpoints upfront
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: draining messages from com.apple.MobileInstallationHelperService
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.MobileInstallationHelperService
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: spawn delegate check: 0
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: launching: ipc (mach)
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: trampoline spawned as: 38054
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: service initialized
+  Tue Jun 11 09:54:52 2019	com.apple.MobileInstallationHelperService: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: uncorking exec source upfront
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: resolving origin
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: created
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: domain origin resolved: error = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: uncorking domain
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: exited with code: 0
+  Tue Jun 11 09:54:52 2019	com.apple.purplebuddy.budd: event callout: event = 5, code = 0
+  Tue Jun 11 09:54:52 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.purplebuddy.budd
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.syncdefaultsd
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: spawn delegate check: 0
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: launching: ipc (mach)
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: trampoline spawned as: 38056
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: service initialized
+  Tue Jun 11 09:54:54 2019	com.apple.syncdefaultsd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:54 2019	com.apple.apsd: service already running
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.carkitd
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: spawn delegate check: 0
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: launching: ipc (mach)
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: trampoline spawned as: 38057
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: service initialized
+  Tue Jun 11 09:54:54 2019	com.apple.carkitd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: uncorking exec source upfront
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: resolving origin
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: created
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: domain origin resolved: error = 128
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: uncorking domain
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: initializing endpoints upfront
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: draining messages from com.apple.ServerDocuments.ServerFileProvider
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: draining messages from com.apple.ServerDocuments.ServerFileProvider.apple-extension-service
+  Tue Jun 11 09:54:54 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: spawn query for reason 1: com.apple.ServerDocuments.ServerFileProvider
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: spawn delegate check: 0
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: launching: ipc (mach)
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: trampoline spawned as: 38058
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: service initialized
+  Tue Jun 11 09:54:54 2019	com.apple.ServerDocuments.ServerFileProvider: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:54 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.cloudd
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: spawn delegate check: 0
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: launching: ipc (mach)
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: trampoline spawned as: 38059
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: service initialized
+  Tue Jun 11 09:54:55 2019	com.apple.cloudd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: uncorking exec source upfront
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: resolving origin
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: created
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: domain origin resolved: error = 0
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: uncorking domain
+  Tue Jun 11 09:54:55 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:55 2019	com.apple.WebKit.Networking: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.WebKit.Networking: draining messages from com.apple.WebKit.Networking
+  Tue Jun 11 09:54:55 2019	com.apple.datamigrator: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.datamigrator: draining messages from com.apple.datamigrator
+  Tue Jun 11 09:54:55 2019	com.apple.flickr.xpc: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.flickr.xpc: draining messages from com.apple.flickr.xpc
+  Tue Jun 11 09:54:55 2019	com.apple.UIKit.KeyboardManagement: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.UIKit.KeyboardManagement: draining messages from com.apple.UIKit.KeyboardManagement
+  Tue Jun 11 09:54:55 2019	com.apple.facebook.xpc: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.facebook.xpc: draining messages from com.apple.facebook.xpc
+  Tue Jun 11 09:54:55 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:54:55 2019	com.apple.WebKit.Databases: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.WebKit.Databases: draining messages from com.apple.WebKit.Databases
+  Tue Jun 11 09:54:55 2019	com.apple.weibo.xpc: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.weibo.xpc: draining messages from com.apple.weibo.xpc
+  Tue Jun 11 09:54:55 2019	com.apple.siri.ClientFlow.ClientScripter: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.siri.ClientFlow.ClientScripter: draining messages from com.apple.siri.ClientFlow.ClientScripter
+  Tue Jun 11 09:54:55 2019	com.apple.accounts.dom: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.accounts.dom: draining messages from com.apple.accounts.dom
+  Tue Jun 11 09:54:55 2019	com.apple.vimeo.xpc: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.vimeo.xpc: draining messages from com.apple.vimeo.xpc
+  Tue Jun 11 09:54:55 2019	com.apple.siri.acousticsignature: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.siri.acousticsignature: draining messages from com.apple.siri.acousticsignature
+  Tue Jun 11 09:54:55 2019	com.apple.WebKit.WebContent: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.WebKit.WebContent: draining messages from com.apple.WebKit.WebContent
+  Tue Jun 11 09:54:55 2019	com.apple.tencentweibo.xpc: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.tencentweibo.xpc: draining messages from com.apple.tencentweibo.xpc
+  Tue Jun 11 09:54:55 2019	com.apple.migrationpluginwrapper: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.migrationpluginwrapper: draining messages from com.apple.migrationpluginwrapper
+  Tue Jun 11 09:54:55 2019	com.apple.twitter.xpc: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.twitter.xpc: draining messages from com.apple.twitter.xpc
+  Tue Jun 11 09:54:55 2019	com.apple.accessibility.mediaaccessibilityd: initializing endpoints upfront
+  Tue Jun 11 09:54:55 2019	com.apple.accessibility.mediaaccessibilityd: draining messages from com.apple.accessibility.mediaaccessibilityd
+  Tue Jun 11 09:54:55 2019	com.apple.ServerDocuments.ServerFileProvider: extension checked in as alive
+  Tue Jun 11 09:54:55 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.FileCoordination
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: spawn delegate check: 0
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: launching: ipc (mach)
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: trampoline spawned as: 38060
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: service initialized
+  Tue Jun 11 09:54:55 2019	com.apple.FileCoordination: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.searchd
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: trampoline spawned as: 38061
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.telephonyutilities.callservicesd
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: trampoline spawned as: 38062
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.quicklook.ThumbnailsAgent
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: trampoline spawned as: 38063
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.suggestd
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: trampoline spawned as: 38064
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.bird
+  Tue Jun 11 09:54:56 2019	com.apple.bird: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.bird: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.bird: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.bird: trampoline spawned as: 38065
+  Tue Jun 11 09:54:56 2019	com.apple.bird: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.bird: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.EscrowSecurityAlert
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: trampoline spawned as: 38066
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.photoanalysisd
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: trampoline spawned as: 38067
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.calaccessd
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: trampoline spawned as: 38068
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.akd
+  Tue Jun 11 09:54:56 2019	com.apple.akd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.akd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.akd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.akd: trampoline spawned as: 38069
+  Tue Jun 11 09:54:56 2019	com.apple.akd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.Maps.geocorrectiond
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: trampoline spawned as: 38070
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.akd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.appstored
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: trampoline spawned as: 38071
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.OTAPKIAssetTool
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: trampoline spawned as: 38072
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.cache_delete
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: trampoline spawned as: 38073
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.Maps.mapspushd
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: spawn delegate check: 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: launching: xpc event
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: trampoline spawned as: 38074
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.searchd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.bird: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.akd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.telephonyutilities.callservicesd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: service initialized
+  Tue Jun 11 09:54:56 2019	com.apple.bird: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: initialization failure: 11Z705: xpcproxy_sim + 9263 [1500][96B29A7F-80EB-34E2-8796-1863C5E6B566]: 0x6f
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 4, code = 111
+  Tue Jun 11 09:54:56 2019	com.apple.appstored: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.geocorrectiond: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.suggestd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.EscrowSecurityAlert: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.photoanalysisd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.akd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.quicklook.ThumbnailsAgent: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.calaccessd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.Maps.mapspushd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: trampoline exited with code: 78
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 4, code = 153
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 5, code = 19968
+  Tue Jun 11 09:54:56 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.OTAPKIAssetTool
+  Tue Jun 11 09:54:56 2019	com.apple.OTAPKIAssetTool: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.cache_delete: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:56 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:57 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.WebBookmarks.webbookmarksd
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: spawn delegate check: 0
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: launching: ipc (mach)
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: trampoline spawned as: 38075
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.coresymbolicationd
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: spawn delegate check: 0
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: launching: ipc (mach)
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: trampoline spawned as: 38076
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.TextInput.kbd
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: spawn delegate check: 0
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: launching: ipc (mach)
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: trampoline spawned as: 38077
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: service initialized
+  Tue Jun 11 09:54:57 2019	com.apple.TextInput.kbd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.Maps.geocorrectiond: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:54:57 2019	com.apple.Maps.geocorrectiond: exited with code: 0
+  Tue Jun 11 09:54:57 2019	com.apple.Maps.geocorrectiond: event callout: event = 5, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.Maps.geocorrectiond
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: service initialized
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: initialization failure: 11Z705: xpcproxy_sim + 9263 [1500][96B29A7F-80EB-34E2-8796-1863C5E6B566]: 0x6f
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 4, code = 111
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: trampoline exited with code: 78
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 4, code = 153
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 5, code = 19968
+  Tue Jun 11 09:54:57 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.WebBookmarks.webbookmarksd
+  Tue Jun 11 09:54:57 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: service initialized
+  Tue Jun 11 09:54:57 2019	com.apple.coresymbolicationd: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.nsurlstoraged
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: spawn delegate check: 0
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: launching: ipc (mach)
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: trampoline spawned as: 38078
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: service initialized
+  Tue Jun 11 09:54:57 2019	com.apple.nsurlstoraged: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:58 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.itunesstored
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: spawn delegate check: 0
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: launching: ipc (mach)
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: trampoline spawned as: 38079
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: service initialized
+  Tue Jun 11 09:54:58 2019	com.apple.itunesstored: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:58 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:58 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:58 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:59 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:59 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.nanotimekitcompaniond
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: spawn delegate check: 0
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: launching: xpc event
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: trampoline spawned as: 38080
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: uncorking exec source upfront
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: resolving origin
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: created
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: domain origin resolved: error = 0
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: uncorking domain
+  Tue Jun 11 09:54:59 2019	com.apple.tonelibraryd: initializing endpoints upfront
+  Tue Jun 11 09:54:59 2019	com.apple.tonelibraryd: draining messages from com.apple.tonelibraryd
+  Tue Jun 11 09:54:59 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:54:59 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: com.apple.xpc.launchd.domain.pid.callservicesd.38062: initializing endpoint after lookup
+  Tue Jun 11 09:54:59 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: spawn query for reason 1: com.apple.CallKit.CallDirectoryMaintenance
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: spawn delegate check: 0
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: launching: ipc (mach)
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: trampoline spawned as: 38081
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.coreservices.useractivityd
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: spawn delegate check: 0
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: event callout: event = 0, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: launching: ipc (mach)
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: trampoline spawned as: 38082
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: event callout: event = 1, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: event callout: event = 2, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: service initialized
+  Tue Jun 11 09:54:59 2019	com.apple.CallKit.CallDirectoryMaintenance: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: service initialized
+  Tue Jun 11 09:54:59 2019	com.apple.nanotimekitcompaniond: event callout: event = 4, code = 0
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: service initialized
+  Tue Jun 11 09:54:59 2019	com.apple.coreservices.useractivityd: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: uncorking exec source upfront
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: resolving origin
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: created
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: domain origin resolved: error = 0
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: uncorking domain
+  Tue Jun 11 09:55:00 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:00 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:00 2019	com.apple.VideoSubscriberAccount.PrivacyService: initializing endpoints upfront
+  Tue Jun 11 09:55:00 2019	com.apple.VideoSubscriberAccount.PrivacyService: draining messages from com.apple.VideoSubscriberAccount.PrivacyService
+  Tue Jun 11 09:55:00 2019	com.apple.VideoSubscriberAccount.DeveloperService: initializing endpoints upfront
+  Tue Jun 11 09:55:00 2019	com.apple.VideoSubscriberAccount.DeveloperService: draining messages from com.apple.VideoSubscriberAccount.DeveloperService
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: initializing endpoints upfront
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: draining messages from com.apple.MobileAddressBook.ContactsCoreSpotlightExtension
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: draining messages from com.apple.MobileAddressBook.ContactsCoreSpotlightExtension.apple-extension-service
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: spawn query for reason 1: com.apple.MobileAddressBook.ContactsCoreSpotlightExtension
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: spawn delegate check: 0
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: launching: ipc (mach)
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: trampoline spawned as: 38083
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: service initialized
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:00 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: uncorking exec source upfront
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: resolving origin
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: created
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: domain origin resolved: error = 0
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: uncorking domain
+  Tue Jun 11 09:55:00 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:00 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: uncorking exec source upfront
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: resolving origin
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: created
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: domain origin resolved: error = 0
+  Tue Jun 11 09:55:00 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: uncorking domain
+  Tue Jun 11 09:55:00 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: extension checked in as alive
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.dataaccess.dataaccessd
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: spawn delegate check: 0
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: launching: xpc event
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: trampoline spawned as: 38084
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: service initialized
+  Tue Jun 11 09:55:01 2019	com.apple.dataaccess.dataaccessd: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: uncorking exec source upfront
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: resolving origin
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: created
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: domain origin resolved: error = 128
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: uncorking domain
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.datamigrator
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: spawn delegate check: 0
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: launching: ipc (mach)
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: trampoline spawned as: 38085
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: service initialized
+  Tue Jun 11 09:55:01 2019	com.apple.datamigrator: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:01 2019	com.apple.accessibility.heard: initializing endpoints upfront
+  Tue Jun 11 09:55:01 2019	com.apple.accessibility.heard: draining messages from com.apple.accessibility.heard
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: uncorking exec source upfront
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: resolving origin
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: created
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: domain origin resolved: error = 0
+  Tue Jun 11 09:55:01 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: uncorking domain
+  Tue Jun 11 09:55:01 2019	com.apple.accessibility.AccessibilityUIServer: initializing endpoints upfront
+  Tue Jun 11 09:55:01 2019	com.apple.accessibility.AccessibilityUIServer: draining messages from com.apple.accessibility.AccessibilityUIServer
+  Tue Jun 11 09:55:01 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:01 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.accessibility.AccessibilityUIServer
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: spawn delegate check: 0
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: launching: ipc (mach)
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: trampoline spawned as: 38086
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: service initialized
+  Tue Jun 11 09:55:02 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.videosubscriptionsd
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: spawn delegate check: 0
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: launching: xpc event
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: trampoline spawned as: 38087
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.managedconfiguration.profiled
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: spawn delegate check: 0
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: launching: ipc (mach)
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: trampoline spawned as: 38088
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 8: com.apple.swcd
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: spawn delegate check: 0
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: launching: xpc event
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: trampoline spawned as: 38089
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: service initialized
+  Tue Jun 11 09:55:02 2019	com.apple.videosubscriptionsd: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: service initialized
+  Tue Jun 11 09:55:02 2019	com.apple.managedconfiguration.profiled: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: service initialized
+  Tue Jun 11 09:55:02 2019	com.apple.swcd: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: uncorking exec source upfront
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: resolving origin
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: created
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: domain origin resolved: error = 0
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: uncorking domain
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.passd
+  Tue Jun 11 09:55:02 2019	com.apple.passd: spawn delegate check: 0
+  Tue Jun 11 09:55:02 2019	com.apple.passd: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.passd: launching: ipc (mach)
+  Tue Jun 11 09:55:02 2019	com.apple.passd: trampoline spawned as: 38090
+  Tue Jun 11 09:55:02 2019	com.apple.passd: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.passd: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.passd: service initialized
+  Tue Jun 11 09:55:02 2019	com.apple.passd: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.medialibraryd
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: spawn delegate check: 0
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: launching: ipc (mach)
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: trampoline spawned as: 38091
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: service initialized
+  Tue Jun 11 09:55:02 2019	com.apple.medialibraryd: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:03 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:03 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:03 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: uncorking exec source upfront
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: resolving origin
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: created
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: domain origin resolved: error = 0
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: uncorking domain
+  Tue Jun 11 09:55:04 2019	com.apple.MapKit.SnapshotService: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.MapKit.SnapshotService: draining messages from com.apple.MapKit.SnapshotService
+  Tue Jun 11 09:55:04 2019	com.apple.WebKit.Networking: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.WebKit.Networking: draining messages from com.apple.WebKit.Networking
+  Tue Jun 11 09:55:04 2019	com.apple.sbd: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.sbd: draining messages from com.apple.sbd
+  Tue Jun 11 09:55:04 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:04 2019	com.apple.WebKit.Databases: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.WebKit.Databases: draining messages from com.apple.WebKit.Databases
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: draining messages from com.apple.imdpersistence.IMDPersistenceAgent
+  Tue Jun 11 09:55:04 2019	com.apple.WebKit.WebContent: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.WebKit.WebContent: draining messages from com.apple.WebKit.WebContent
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.imdpersistence.IMDPersistenceAgent
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: spawn delegate check: 0
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: launching: ipc (mach)
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: trampoline spawned as: 38092
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: service initialized
+  Tue Jun 11 09:55:04 2019	com.apple.imdpersistence.IMDPersistenceAgent: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: uncorking exec source upfront
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: resolving origin
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: created
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: domain origin resolved: error = 0
+  Tue Jun 11 09:55:04 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: uncorking domain
+  Tue Jun 11 09:55:04 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:04 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:04 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:04 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: UIKitApplication:com.apple.mobilecal[0x44b9][38023]
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.system: pending spawn, service not yet imported: UIKitApplication:com.apple.mobilecal[0x44b9][38023]
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: spawn delegate check: 2
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: UIKitApplication:com.apple.mobilecal[0x44b9][38023]
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: spawn delegate check: 0
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: launching: speculative
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: trampoline spawned as: 38093
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: service initialized
+  Tue Jun 11 09:55:06 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: initializing endpoints upfront
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: draining messages from com.apple.MobileSMS.spotlight
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: draining messages from com.apple.MobileSMS.spotlight.apple-extension-service
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: spawn query for reason 1: com.apple.MobileSMS.spotlight
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: spawn delegate check: 0
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: launching: ipc (mach)
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: trampoline spawned as: 38094
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: service initialized
+  Tue Jun 11 09:55:06 2019	com.apple.MobileSMS.spotlight: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: uncorking exec source upfront
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: resolving origin
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: created
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: domain origin resolved: error = 128
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: uncorking domain
+  Tue Jun 11 09:55:06 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.instruments.deviceservice
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: spawn delegate check: 0
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: launching: ipc (mach)
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: trampoline spawned as: 38095
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: service initialized
+  Tue Jun 11 09:55:06 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:06 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:06 2019	com.apple.instruments.deviceservice: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:07 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:07 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]
+  Tue Jun 11 09:55:07 2019	com.apple.xpc.launchd.domain.system: pending spawn, service not yet imported: UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: spawn delegate check: 2
+  Tue Jun 11 09:55:07 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: spawn delegate check: 0
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: launching: speculative
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: trampoline spawned as: 38099
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: service initialized
+  Tue Jun 11 09:55:07 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:07 2019	com.apple.nsurlsessiond: service already running
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: uncorking exec source upfront
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: resolving origin
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: created
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: domain origin resolved: error = 0
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: uncorking domain
+  Tue Jun 11 09:55:08 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: initializing endpoints upfront
+  Tue Jun 11 09:55:08 2019	com.apple.imfoundation.IMRemoteURLConnectionAgent: draining messages from com.apple.imfoundation.IMRemoteURLConnectionAgent
+  Tue Jun 11 09:55:08 2019	com.apple.MobileSMS.spotlight: extension checked in as alive
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: uncorking exec source upfront
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: resolving origin
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: created
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: origin not yet resolved, deferring bootstrap
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: domain origin resolved: error = 0
+  Tue Jun 11 09:55:08 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: uncorking domain
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Networking: initializing endpoints upfront
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Networking: draining messages from com.apple.WebKit.Networking
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.WebContent: initializing endpoints upfront
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.WebContent: draining messages from com.apple.WebKit.WebContent
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Databases: initializing endpoints upfront
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Databases: draining messages from com.apple.WebKit.Databases
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Networking: initializing endpoints upfront
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Networking: draining messages from com.apple.WebKit.Networking
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Databases: initializing endpoints upfront
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.Databases: draining messages from com.apple.WebKit.Databases
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.WebContent: initializing endpoints upfront
+  Tue Jun 11 09:55:09 2019	com.apple.WebKit.WebContent: draining messages from com.apple.WebKit.WebContent
+  Tue Jun 11 09:55:14 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 1: com.apple.splashboard
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: spawn delegate check: 0
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: launching: ipc (mach)
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: trampoline spawned as: 38104
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: service initialized
+  Tue Jun 11 09:55:14 2019	com.apple.splashboard: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:17 2019	com.apple.datamigrator: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:17 2019	com.apple.datamigrator: exited with code: 0
+  Tue Jun 11 09:55:17 2019	com.apple.datamigrator: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:17 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.datamigrator
+  Tue Jun 11 09:55:17 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: shutting down
+  Tue Jun 11 09:55:17 2019	com.apple.xpc.launchd.domain.pid.datamigrator.38085: cleaning up
+  Tue Jun 11 09:55:17 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.datamigrator.38085
+  Tue Jun 11 09:55:18 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]
+  Tue Jun 11 09:55:18 2019	com.apple.xpc.launchd.domain.system: pending spawn, service not yet imported: UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: spawn delegate check: 2
+  Tue Jun 11 09:55:18 2019	com.apple.xpc.launchd.domain.system: spawn query for reason 4: UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: spawn delegate check: 0
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: event callout: event = 0, code = 0
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: launching: speculative
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: trampoline spawned as: 38106
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: event callout: event = 1, code = 0
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: event callout: event = 2, code = 0
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: service initialized
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: event callout: event = 4, code = 0
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: exited due to Terminated: 15
+  Tue Jun 11 09:55:18 2019	UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:18 2019	com.apple.xpc.launchd.domain.system: service inactive: UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]
+  Tue Jun 11 09:55:19 2019	com.apple.xpc.launchd.domain.system: removing service: UIKitApplication:com.tomascamin.SBTUITestTunnel-Example[0x36bf][38023]
+  Tue Jun 11 09:55:19 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: shutting down
+  Tue Jun 11 09:55:19 2019	com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099: cleaning up
+  Tue Jun 11 09:55:19 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:19 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: exited due to Killed: 9
+  Tue Jun 11 09:55:19 2019	UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:19 2019	com.apple.xpc.launchd.domain.system: service inactive: UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]
+  Tue Jun 11 09:55:19 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.SBTUITestTunnel_Tests-Runner.38099
+  Tue Jun 11 09:55:19 2019	com.apple.xpc.launchd.domain.system: removing service: UIKitApplication:com.apple.test.SBTUITestTunnel_Tests-Runner[0x2d00][38023]
+  Tue Jun 11 09:55:34 2019	com.apple.mediastream.mstreamd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:34 2019	com.apple.mediastream.mstreamd: exited with code: 0
+  Tue Jun 11 09:55:34 2019	com.apple.mediastream.mstreamd: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:34 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.mediastream.mstreamd
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: domain SIGTERM event
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: shutting down
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged service: com.apple.xpc.launchd.simhost
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.CoreSimulator.host.bootstrap_port
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack11
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack05
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack12
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack06
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.CoreSimulator.IndigoFramebufferServices.DisplayManagerHack
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack01
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack07
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleFBTVOutServer
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack02
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack08
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: IndigoHIDRegistrationPort
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack03
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack09
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack10
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleSceneHack04
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: PurpleFBServer
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.FSEvents
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.SystemConfiguration.configd
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.coreservices.lsuseractivity.simulatorsupport
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.audio.audiohald
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.SystemConfiguration.PPPController
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.audio.coreaudiod
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.SystemConfiguration.configd_host
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing unmanaged endpoint: com.apple.PowerManagement.control
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.xpc.launchd.simhost
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing inactive unmanaged service: com.apple.xpc.launchd.simhost
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing semi-active service: com.apple.WebBookmarks.webbookmarksd
+  Tue Jun 11 09:55:45 2019	com.apple.WebBookmarks.webbookmarksd: canceling penalty-box spawn
+  Tue Jun 11 09:55:45 2019	com.apple.WebBookmarks.webbookmarksd: event callout: event = 1, code = 89
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.WebBookmarks.webbookmarksd
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing semi-active service: com.apple.OTAPKIAssetTool
+  Tue Jun 11 09:55:45 2019	com.apple.OTAPKIAssetTool: canceling penalty-box spawn
+  Tue Jun 11 09:55:45 2019	com.apple.OTAPKIAssetTool: event callout: event = 1, code = 89
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.OTAPKIAssetTool
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: UIKitApplication:com.apple.mobilecal[0x44b9][38023]
+  Tue Jun 11 09:55:45 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.nanotimekitcompaniond
+  Tue Jun 11 09:55:45 2019	com.apple.nanotimekitcompaniond: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.photoanalysisd
+  Tue Jun 11 09:55:45 2019	com.apple.photoanalysisd: signaled service: Killed: 9
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.MobileInstallationHelperService
+  Tue Jun 11 09:55:45 2019	com.apple.MobileInstallationHelperService: signaled service: Killed: 9
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.pasteboard.pasted
+  Tue Jun 11 09:55:45 2019	com.apple.pasteboard.pasted: signaled service: Killed: 9
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.configd_sim
+  Tue Jun 11 09:55:45 2019	com.apple.configd_sim: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.identityservicesd
+  Tue Jun 11 09:55:45 2019	com.apple.identityservicesd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.instruments.deviceservice
+  Tue Jun 11 09:55:45 2019	com.apple.instruments.deviceservice: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.coreservices.useractivityd
+  Tue Jun 11 09:55:45 2019	com.apple.coreservices.useractivityd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.akd
+  Tue Jun 11 09:55:45 2019	com.apple.akd: signaled service: Killed: 9
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.syncdefaultsd
+  Tue Jun 11 09:55:45 2019	com.apple.syncdefaultsd: signaled service: Killed: 9
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.nanoregistrylaunchd
+  Tue Jun 11 09:55:45 2019	com.apple.nanoregistrylaunchd: signaled service: Killed: 9
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.notifyd
+  Tue Jun 11 09:55:45 2019	com.apple.notifyd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:45 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.coreservices.appleid.authentication
+  Tue Jun 11 09:55:45 2019	com.apple.coreservices.appleid.authentication: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.syslogd
+  Tue Jun 11 09:55:46 2019	com.apple.syslogd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.dataaccess.dataaccessd
+  Tue Jun 11 09:55:46 2019	com.apple.dataaccess.dataaccessd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.appstored
+  Tue Jun 11 09:55:46 2019	com.apple.appstored: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.securityd
+  Tue Jun 11 09:55:46 2019	com.apple.securityd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.diagnosticd
+  Tue Jun 11 09:55:46 2019	com.apple.diagnosticd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.wcd
+  Tue Jun 11 09:55:46 2019	com.apple.wcd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.assistantd
+  Tue Jun 11 09:55:46 2019	com.apple.assistantd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.accessibility.AccessibilityUIServer
+  Tue Jun 11 09:55:46 2019	com.apple.accessibility.AccessibilityUIServer: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.cache_delete
+  Tue Jun 11 09:55:46 2019	com.apple.cache_delete: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.FileCoordination
+  Tue Jun 11 09:55:46 2019	com.apple.FileCoordination: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.security.cloudkeychainproxy3
+  Tue Jun 11 09:55:46 2019	com.apple.security.cloudkeychainproxy3: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.aslmanager
+  Tue Jun 11 09:55:46 2019	com.apple.aslmanager: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.sharingd
+  Tue Jun 11 09:55:46 2019	com.apple.sharingd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.managedconfiguration.profiled
+  Tue Jun 11 09:55:46 2019	com.apple.managedconfiguration.profiled: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.telephonyutilities.callservicesd
+  Tue Jun 11 09:55:46 2019	com.apple.telephonyutilities.callservicesd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.mobileassetd
+  Tue Jun 11 09:55:46 2019	com.apple.mobileassetd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.lsd
+  Tue Jun 11 09:55:46 2019	com.apple.lsd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.assertiond
+  Tue Jun 11 09:55:46 2019	com.apple.assertiond: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.routined
+  Tue Jun 11 09:55:46 2019	com.apple.routined: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.passd
+  Tue Jun 11 09:55:46 2019	com.apple.passd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.TextInput.kbd
+  Tue Jun 11 09:55:46 2019	com.apple.TextInput.kbd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.suggestd
+  Tue Jun 11 09:55:46 2019	com.apple.suggestd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.nsurlsessiond
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlsessiond: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.nanoregistryd
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistryd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.CoreSimulator.bridge
+  Tue Jun 11 09:55:46 2019	com.apple.CoreSimulator.bridge: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.ids_simd
+  Tue Jun 11 09:55:46 2019	com.apple.ids_simd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.imdpersistence.IMDPersistenceAgent
+  Tue Jun 11 09:55:46 2019	com.apple.imdpersistence.IMDPersistenceAgent: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.itunesstored
+  Tue Jun 11 09:55:46 2019	com.apple.itunesstored: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.EscrowSecurityAlert
+  Tue Jun 11 09:55:46 2019	com.apple.EscrowSecurityAlert: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.pluginkit.pkd
+  Tue Jun 11 09:55:46 2019	com.apple.pluginkit.pkd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.GameController.gamecontrollerd
+  Tue Jun 11 09:55:46 2019	com.apple.GameController.gamecontrollerd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.revisiond
+  Tue Jun 11 09:55:46 2019	com.apple.revisiond: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.mobile.installd
+  Tue Jun 11 09:55:46 2019	com.apple.mobile.installd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.calaccessd
+  Tue Jun 11 09:55:46 2019	com.apple.calaccessd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.accountsd
+  Tue Jun 11 09:55:46 2019	com.apple.accountsd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.testmanagerd
+  Tue Jun 11 09:55:46 2019	com.apple.testmanagerd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.assetsd
+  Tue Jun 11 09:55:46 2019	com.apple.assetsd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.carkitd
+  Tue Jun 11 09:55:46 2019	com.apple.carkitd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.geod
+  Tue Jun 11 09:55:46 2019	com.apple.geod: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.SpringBoard
+  Tue Jun 11 09:55:46 2019	com.apple.SpringBoard: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.UserEventAgent-System
+  Tue Jun 11 09:55:46 2019	com.apple.UserEventAgent-System: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.cloudd
+  Tue Jun 11 09:55:46 2019	com.apple.cloudd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.appsupport.cplogd
+  Tue Jun 11 09:55:46 2019	com.apple.appsupport.cplogd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.cfprefsd.xpc.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.cfprefsd.xpc.daemon: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.backboardd
+  Tue Jun 11 09:55:46 2019	com.apple.backboardd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.fileprovider.fileproviderd
+  Tue Jun 11 09:55:46 2019	com.apple.fileprovider.fileproviderd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.videosubscriptionsd
+  Tue Jun 11 09:55:46 2019	com.apple.videosubscriptionsd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.Maps.mapspushd
+  Tue Jun 11 09:55:46 2019	com.apple.Maps.mapspushd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.searchd
+  Tue Jun 11 09:55:46 2019	com.apple.searchd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.apsd
+  Tue Jun 11 09:55:46 2019	com.apple.apsd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.mobilegestalt.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.mobilegestalt.xpc: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.locationd
+  Tue Jun 11 09:55:46 2019	com.apple.locationd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.mediaremoted
+  Tue Jun 11 09:55:46 2019	com.apple.mediaremoted: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.swcd
+  Tue Jun 11 09:55:46 2019	com.apple.swcd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.coresymbolicationd
+  Tue Jun 11 09:55:46 2019	com.apple.coresymbolicationd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.quicklook.ThumbnailsAgent
+  Tue Jun 11 09:55:46 2019	com.apple.quicklook.ThumbnailsAgent: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.security.keychainsyncingoveridsproxy
+  Tue Jun 11 09:55:46 2019	com.apple.security.keychainsyncingoveridsproxy: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.tccd
+  Tue Jun 11 09:55:46 2019	com.apple.tccd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.containermanagerd
+  Tue Jun 11 09:55:46 2019	com.apple.containermanagerd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.healthd
+  Tue Jun 11 09:55:46 2019	com.apple.healthd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.splashboard
+  Tue Jun 11 09:55:46 2019	com.apple.splashboard: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.medialibraryd
+  Tue Jun 11 09:55:46 2019	com.apple.medialibraryd: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.nsurlstoraged
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlstoraged: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.bird
+  Tue Jun 11 09:55:46 2019	com.apple.bird: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.distnoted.xpc.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.distnoted.xpc.daemon: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing active service: com.apple.logd
+  Tue Jun 11 09:55:46 2019	com.apple.logd: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accessibility.heard
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accessibility.mediaaccessibilityd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.ABDatabaseDoctor
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.managedconfiguration.teslad
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.tzlinkd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.CoreAuthentication.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.VideoSubscriberAccount.DeveloperService
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cloudphotod
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mediastream.mstreamd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cdpd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.homed
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.personad
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.voiced
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.GSSCred
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.tonelibraryd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accounts.dom
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.siri.ClientFlow.ClientScripter
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mdt
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.coreservices.appleid.passwordcheck
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.parsecd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.flickr.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.AssetCacheLocatorService
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.security.swcagent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.protectedcloudstorage.protectedcloudkeysyncing
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.UIKit.KeyboardManagement
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.imcore.imtransferagent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.iokitsimd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.imavagent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.idsfoundation.IDSRemoteURLConnectionAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.CloudPhotoDerivativeGenerator
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.safarifetcherd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.recentsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.VideoSubscriberAccount.PrivacyService
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.coreduetd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.ctkd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.nanobackupd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.Maps.geocorrectiond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.IMLoggingAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.certui.relay
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.DataDetectorsSourceAccess
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.midiserver.sim
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.Safari.SafeBrowsing.Service
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.vimeo.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.security.CircleJoinRequested
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.and
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.gamed
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.webinspectord
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.sbd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.siri.acousticsignature
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.datamigrator
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.tencentweibo.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.newswidgetpolicyd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.absd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.rtcreportingd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cfnetwork.cfnetworkagent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mediaartworkd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.weibo.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cmfsyncagent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.VideoSubscriberAccount.Bulletind
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.MapKit.SnapshotService
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.audio.systemsoundserver-simd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.aps.tcpdump.pdp_ip0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.assetsd.nebulad
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.iad.limitadtrackingd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.imautomatichistorydeletionagent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.watchlistd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.printd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.sosd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accessibility.axAuditDaemon.deviceservice
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.navd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.logind
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.purplebuddy.budd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.reversetemplated
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.ids.IDSCredentialsAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.twitter.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.migrationpluginwrapper
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.facebook.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.SafariCloudHistoryPushAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.assistant_service
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.managedconfiguration.mdmd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.icloud.fmfd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.aps.tcpdump.en0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: slaying domain
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.installd.38014: slaying domain
+  Tue Jun 11 09:55:46 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	UIKitApplication:com.apple.mobilecal[0x44b9][38023]: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.MobileInstallationHelperService: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.MobileInstallationHelperService: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.MobileInstallationHelperService: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.pasteboard.pasted: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.pasteboard.pasted: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.pasteboard.pasted: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.photoanalysisd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.photoanalysisd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.photoanalysisd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.nanotimekitcompaniond: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.nanotimekitcompaniond: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.nanotimekitcompaniond: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.instruments.deviceservice: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.instruments.deviceservice: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.instruments.deviceservice: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.akd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.akd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.akd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.syncdefaultsd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.syncdefaultsd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.syncdefaultsd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistrylaunchd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistrylaunchd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistrylaunchd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.notifyd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.notifyd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.notifyd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.syslogd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.syslogd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.syslogd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.dataaccess.dataaccessd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.dataaccess.dataaccessd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.dataaccess.dataaccessd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.appstored: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.appstored: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.appstored: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.wcd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.wcd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.wcd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.accessibility.AccessibilityUIServer: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.accessibility.AccessibilityUIServer: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.accessibility.AccessibilityUIServer: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.SpringBoard.38018: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.backboardd.38020: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: removing active service: com.apple.MobileSMS.spotlight
+  Tue Jun 11 09:55:46 2019	com.apple.MobileSMS.spotlight: signaled service: Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: removing active service: com.apple.MobileAddressBook.ContactsCoreSpotlightExtension
+  Tue Jun 11 09:55:46 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: removing active service: com.apple.CallKit.CallDirectoryMaintenance
+  Tue Jun 11 09:55:46 2019	com.apple.CallKit.CallDirectoryMaintenance: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: removing active service: com.apple.ServerDocuments.ServerFileProvider
+  Tue Jun 11 09:55:46 2019	com.apple.ServerDocuments.ServerFileProvider: signaled service: Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.installd.38014: shutting down
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.installd.38014: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.MobileSMSSpotlightImporter.38094
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.CoreSimulatorBridge.38025
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.IMDPersistenceAgent.38092
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.SpringBoard.38018
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.AccessibilityUIServer.38086
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.backboardd.38020
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.ContactsCoreSpotlightExtension.38083
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.CallDirectoryMaintenance.38081
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.ServerFileProvider.38058
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.MobileInstallationHelperService.38054
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.installd.38014
+  Tue Jun 11 09:55:46 2019	com.apple.coreservices.useractivityd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.coreservices.useractivityd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.coreservices.useractivityd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.security.cloudkeychainproxy3: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.security.cloudkeychainproxy3: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.security.cloudkeychainproxy3: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.lsd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.lsd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.lsd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.telephonyutilities.callservicesd: service exited: dirty = 1, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.telephonyutilities.callservicesd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.telephonyutilities.callservicesd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.assertiond: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.assertiond: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.assertiond: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.securityd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.securityd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.securityd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.TextInput.kbd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.TextInput.kbd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.TextInput.kbd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.assistantd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.assistantd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.assistantd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.passd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.passd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.passd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.coreservices.appleid.authentication: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.coreservices.appleid.authentication: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.coreservices.appleid.authentication: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.managedconfiguration.profiled: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.managedconfiguration.profiled: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.managedconfiguration.profiled: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.suggestd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.suggestd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.suggestd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.sharingd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.sharingd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.sharingd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.mobileassetd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.mobileassetd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.mobileassetd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.ids_simd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.ids_simd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.ids_simd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.diagnosticd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.diagnosticd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.diagnosticd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.mobilegestalt.xpc: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.mobilegestalt.xpc: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.mobilegestalt.xpc: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.Maps.mapspushd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.Maps.mapspushd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.Maps.mapspushd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.CoreSimulator.bridge: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.CoreSimulator.bridge: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.CoreSimulator.bridge: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistryd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistryd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.nanoregistryd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.backboardd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.backboardd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.backboardd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.MobileAddressBook.ContactsCoreSpotlightExtension: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.cloudd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.cloudd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.cloudd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.imdpersistence.IMDPersistenceAgent: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.imdpersistence.IMDPersistenceAgent: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.imdpersistence.IMDPersistenceAgent: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.EscrowSecurityAlert: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.EscrowSecurityAlert: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.EscrowSecurityAlert: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.appsupport.cplogd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.appsupport.cplogd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.appsupport.cplogd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.itunesstored: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.itunesstored: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.itunesstored: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.pluginkit.pkd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.pluginkit.pkd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.pluginkit.pkd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.GameController.gamecontrollerd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.GameController.gamecontrollerd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.GameController.gamecontrollerd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.mobile.installd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.mobile.installd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.mobile.installd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.accountsd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.accountsd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.accountsd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.testmanagerd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.testmanagerd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.testmanagerd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.carkitd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.carkitd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.carkitd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.calaccessd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.calaccessd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.calaccessd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.assetsd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.assetsd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.assetsd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.fileprovider.fileproviderd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.fileprovider.fileproviderd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.fileprovider.fileproviderd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.videosubscriptionsd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.videosubscriptionsd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.videosubscriptionsd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.CallKit.CallDirectoryMaintenance: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.CallKit.CallDirectoryMaintenance: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.CallKit.CallDirectoryMaintenance: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.mediaremoted: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.mediaremoted: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.mediaremoted: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.swcd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.swcd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.swcd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.coresymbolicationd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.coresymbolicationd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.coresymbolicationd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.quicklook.ThumbnailsAgent: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.quicklook.ThumbnailsAgent: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.quicklook.ThumbnailsAgent: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.security.keychainsyncingoveridsproxy: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.security.keychainsyncingoveridsproxy: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.security.keychainsyncingoveridsproxy: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.tccd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.tccd: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.tccd: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.containermanagerd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.containermanagerd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.containermanagerd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlstoraged: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlstoraged: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlstoraged: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.medialibraryd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.medialibraryd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.medialibraryd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.splashboard: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.splashboard: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.splashboard: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.distnoted.xpc.daemon: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.distnoted.xpc.daemon: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.distnoted.xpc.daemon: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.healthd: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.healthd: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.healthd: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.cfprefsd.xpc.daemon: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.cfprefsd.xpc.daemon: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.cfprefsd.xpc.daemon: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.geod: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.geod: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.geod: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.nanotimekitcompaniond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.nanotimekitcompaniond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: UIKitApplication:com.apple.mobilecal[0x44b9][38023]
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: UIKitApplication:com.apple.mobilecal[0x44b9][38023]
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.photoanalysisd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.photoanalysisd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.MobileInstallationHelperService
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.MobileInstallationHelperService
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.pasteboard.pasted
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.pasteboard.pasted
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.instruments.deviceservice
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.instruments.deviceservice
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.coreservices.useractivityd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.coreservices.useractivityd
+  Tue Jun 11 09:55:46 2019	com.apple.ServerDocuments.ServerFileProvider: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.ServerDocuments.ServerFileProvider: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.ServerDocuments.ServerFileProvider: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.akd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.akd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.syncdefaultsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.syncdefaultsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.nanoregistrylaunchd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.nanoregistrylaunchd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.notifyd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.notifyd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.coreservices.appleid.authentication
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.coreservices.appleid.authentication
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.syslogd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.syslogd
+  Tue Jun 11 09:55:46 2019	com.apple.aslmanager: service exited: dirty = 1, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.aslmanager: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.aslmanager: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.dataaccess.dataaccessd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.dataaccess.dataaccessd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.appstored
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.appstored
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlsessiond: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlsessiond: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.nsurlsessiond: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.securityd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.securityd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.diagnosticd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.diagnosticd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.wcd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.wcd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.assistantd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.assistantd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.accessibility.AccessibilityUIServer
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accessibility.AccessibilityUIServer
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.security.cloudkeychainproxy3
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.security.cloudkeychainproxy3
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.sharingd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.sharingd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.managedconfiguration.profiled
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.managedconfiguration.profiled
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.telephonyutilities.callservicesd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.telephonyutilities.callservicesd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.mobileassetd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mobileassetd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.lsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.lsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.assertiond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.assertiond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.passd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.passd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.TextInput.kbd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.TextInput.kbd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.suggestd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.suggestd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.backboardd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.backboardd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.ids_simd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.ids_simd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.imdpersistence.IMDPersistenceAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.imdpersistence.IMDPersistenceAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.itunesstored
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.itunesstored
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.EscrowSecurityAlert
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.EscrowSecurityAlert
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.pluginkit.pkd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.pluginkit.pkd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.GameController.gamecontrollerd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.GameController.gamecontrollerd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.mobile.installd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mobile.installd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.calaccessd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.calaccessd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.accountsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.accountsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.testmanagerd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.testmanagerd
+  Tue Jun 11 09:55:46 2019	com.apple.SpringBoard: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.SpringBoard: exited due to Terminated: 15
+  Tue Jun 11 09:55:46 2019	com.apple.SpringBoard: event callout: event = 5, code = 15
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.assetsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.assetsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.carkitd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.carkitd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.geod
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.geod
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.SpringBoard
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.SpringBoard
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.fileprovider.fileproviderd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.fileprovider.fileproviderd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.videosubscriptionsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.videosubscriptionsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.Maps.mapspushd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.Maps.mapspushd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.mobilegestalt.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mobilegestalt.xpc
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: service inactive: com.apple.MobileAddressBook.ContactsCoreSpotlightExtension
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.nanoregistryd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.nanoregistryd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.CoreSimulator.bridge
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.CoreSimulator.bridge
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.appsupport.cplogd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.appsupport.cplogd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.cloudd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cloudd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: service inactive: com.apple.CallKit.CallDirectoryMaintenance
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.callservicesd.38062: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.callservicesd.38062
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: service inactive: com.apple.ServerDocuments.ServerFileProvider
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.pid.fileproviderd.38007: cleaning up
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.fileproviderd.38007
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.mediaremoted
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.mediaremoted
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.swcd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.swcd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.coresymbolicationd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.coresymbolicationd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.quicklook.ThumbnailsAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.quicklook.ThumbnailsAgent
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.security.keychainsyncingoveridsproxy
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.security.keychainsyncingoveridsproxy
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.tccd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.tccd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.containermanagerd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.containermanagerd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.healthd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.healthd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.splashboard
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.splashboard
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.medialibraryd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.medialibraryd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.nsurlstoraged
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.nsurlstoraged
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.distnoted.xpc.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.distnoted.xpc.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.cfprefsd.xpc.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cfprefsd.xpc.daemon
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.nsurlsessiond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.nsurlsessiond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.aslmanager
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.aslmanager
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.xpc.launchd.oneshot.0x10000000.SimulatorBridge
+  Tue Jun 11 09:55:46 2019	com.apple.configd_sim: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.configd_sim: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.configd_sim: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.configd_sim
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.configd_sim
+  Tue Jun 11 09:55:46 2019	com.apple.cache_delete: service exited: dirty = 1, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.cache_delete: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.cache_delete: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.cache_delete
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.cache_delete
+  Tue Jun 11 09:55:46 2019	com.apple.bird: service exited: dirty = 1, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.bird: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.bird: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.bird
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.bird
+  Tue Jun 11 09:55:46 2019	com.apple.identityservicesd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.identityservicesd: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.identityservicesd: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.identityservicesd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.identityservicesd
+  Tue Jun 11 09:55:46 2019	com.apple.FileCoordination: service exited: dirty = 0, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.FileCoordination: exited due to Killed: 9
+  Tue Jun 11 09:55:46 2019	com.apple.FileCoordination: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.FileCoordination
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.FileCoordination
+  Tue Jun 11 09:55:46 2019	com.apple.routined: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.routined: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.routined: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.routined
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.routined
+  Tue Jun 11 09:55:46 2019	com.apple.revisiond: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.revisiond: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.revisiond: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.revisiond
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.revisiond
+  Tue Jun 11 09:55:46 2019	com.apple.searchd: service exited: dirty = 1, pressured-exit = 1
+  Tue Jun 11 09:55:46 2019	com.apple.searchd: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.searchd: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.searchd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.searchd
+  Tue Jun 11 09:55:46 2019	com.apple.apsd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:46 2019	com.apple.apsd: exited with code: 0
+  Tue Jun 11 09:55:46 2019	com.apple.apsd: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.apsd
+  Tue Jun 11 09:55:46 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.apsd
+  Tue Jun 11 09:55:47 2019	com.apple.logd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:47 2019	com.apple.logd: exited with code: 0
+  Tue Jun 11 09:55:47 2019	com.apple.logd: event callout: event = 5, code = 0
+  Tue Jun 11 09:55:47 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.logd
+  Tue Jun 11 09:55:47 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.logd
+  Tue Jun 11 09:55:49 2019	com.apple.locationd: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:49 2019	com.apple.locationd: exited with code: 1
+  Tue Jun 11 09:55:49 2019	com.apple.locationd: event callout: event = 5, code = 256
+  Tue Jun 11 09:55:49 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.locationd
+  Tue Jun 11 09:55:49 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.locationd
+  Tue Jun 11 09:55:50 2019	com.apple.UserEventAgent-System: exceeded SIGTERM timeout: 5
+  Tue Jun 11 09:55:50 2019	com.apple.MobileSMS.spotlight: exceeded SIGTERM timeout: 5
+  Tue Jun 11 09:55:50 2019	com.apple.MobileSMS.spotlight: service exited: dirty = 1, pressured-exit = 1
+  Tue Jun 11 09:55:50 2019	com.apple.MobileSMS.spotlight: exited due to Killed: 9
+  Tue Jun 11 09:55:50 2019	com.apple.MobileSMS.spotlight: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:50 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: service inactive: com.apple.MobileSMS.spotlight
+  Tue Jun 11 09:55:50 2019	com.apple.xpc.launchd.domain.pid.searchd.38061: cleaning up
+  Tue Jun 11 09:55:50 2019	com.apple.xpc.launchd.domain.system: removing child: com.apple.xpc.launchd.domain.pid.searchd.38061
+  Tue Jun 11 09:55:50 2019	com.apple.UserEventAgent-System: service exited: dirty = 0, pressured-exit = 0
+  Tue Jun 11 09:55:50 2019	com.apple.UserEventAgent-System: exited due to Killed: 9
+  Tue Jun 11 09:55:50 2019	com.apple.UserEventAgent-System: event callout: event = 5, code = 9
+  Tue Jun 11 09:55:50 2019	com.apple.xpc.launchd.domain.system: service inactive: com.apple.UserEventAgent-System
+  Tue Jun 11 09:55:50 2019	com.apple.xpc.launchd.domain.system: removing service: com.apple.UserEventAgent-System
+  Tue Jun 11 09:55:50 2019	com.apple.xpc.launchd.domain.system: cleaning up
